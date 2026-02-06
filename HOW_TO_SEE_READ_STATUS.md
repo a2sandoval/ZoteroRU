@@ -1,6 +1,5 @@
 # How to See the Read Status in Zotero
 
-Great! The menu is working. Now here's how to see which items are marked as read:
 
 ## Method 1: Show the "Read" Column (Recommended)
 
